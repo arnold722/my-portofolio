@@ -1,0 +1,11 @@
+.video-time {
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 8px;
+  right: 5px;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 4px;
+  border-radius: 2px;
+}
